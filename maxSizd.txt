@@ -1,0 +1,6 @@
+1367, 738
+^XA
+^FT20,180^A0N,27,45^FB300,4,,C^FH\^FDeste es un texto de prueba para ver la longitud del texto^FS
+^XZ
+
+1367
